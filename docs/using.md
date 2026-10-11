@@ -2,6 +2,8 @@
 
 These are records that I have found on the internet, or that authors have informed me about. Studies, reports, abstracts, conference proceeding, datasets are listed from newest to oldest :
 
+524 Santos-Carvalho, A., & Navalhas, I. N. (2026). **Mapping science communication in Portugal: Twelve years of community, practices and traditions.** Cultures of Science, 9(3), 268-282. <https://doi.org/10.1177/20966083261481289>
+
 523 San Jose, Dominic Bryan S. (2026) **Resilience in Aging: A Grounded Theory Study on How Older Japanese Adults Navigate Chronic Illness.** Asia-Pacific Social Science Review: Vol. 26: Iss. 3, Article 7. <https://doi.org/10.59588/2350-8329.1621> 
 
 522 Eashwar VM A, Nithya V, Charulatha RJ, Grace G A, Sujitha P, Sekhar MA. **A Culturally Derived Serious Videogame as an Adjunct to Pharmacotherapy for Depression: A Randomised Controlled Trial from Chennai, India.** Natl J Community Med [Internet]. 2026 Oct. 1;17(10):942-5. <https://njcmindia.com/index.php/file/article/view/6934>
