@@ -2,6 +2,8 @@
 
 These are records that I have found on the internet, or that authors have informed me about. Studies, reports, abstracts, conference proceeding, datasets are listed from newest to oldest :
 
+525 Iftanti, Erna, and Umniyati Ris’ah. 2026. **Beyond Digital-Native Assumptions: A Systematic Integrative Review of Generation Z Teachers and Learners in English Language Education.** Journal of Educational Research and Practice 4 (2). Tulungagung, Indonesia:182-216. <https://doi.org/10.70376/jerp.v4i2.457>
+
 524 Santos-Carvalho, A., & Navalhas, I. N. (2026). **Mapping science communication in Portugal: Twelve years of community, practices and traditions.** Cultures of Science, 9(3), 268-282. <https://doi.org/10.1177/20966083261481289>
 
 523 San Jose, Dominic Bryan S. (2026) **Resilience in Aging: A Grounded Theory Study on How Older Japanese Adults Navigate Chronic Illness.** Asia-Pacific Social Science Review: Vol. 26: Iss. 3, Article 7. <https://doi.org/10.59588/2350-8329.1621> 
