@@ -2,6 +2,8 @@
 
 These are records that I have found on the internet, or that authors have informed me about. Studies, reports, abstracts, conference proceeding, datasets are listed from newest to oldest :
 
+519 Banjac, M. (2026). **Early formations of European youth policy: the role of the Common Assembly of the European Coal and Steel Community (1952–1958).** Critical Policy Studies, 1–21. <https://doi.org/10.1080/19460171.2026.2742224>
+
 518 **Validación aplicada del modelo de madurez 2MPDeIS para proyectos de desarrollo e impacto social: Resultados del caso CORPOVALLE.** Diego Escobar. Project Design and Management, 8(2). <https://doi.org/10.35992/49p3ct14>
 
 517 Buscema, Francesco, Bertola, Lara, Converso, Daniela, Lorente Prieto, Laura, Colombo, Lara,** The Challenges of Public Healthcare: Exploratory Study of Job Demands–Resources on Italian Public Health Managers.** Health & Social Care in the Community, 2026, 1374868, 14 pages, 2026. <https://doi.org/10.1155/hsc/1374868>
