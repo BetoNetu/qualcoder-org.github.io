@@ -2,6 +2,8 @@
 
 These are records that I have found on the internet, or that authors have informed me about. Studies, reports, abstracts, conference proceeding, datasets are listed from newest to oldest :
 
+521 **Under Pressure: How Autonomy and Competence Shape AI Adoption in Citizen Broadcasting.** Kirill Kronhardt, Erik Böttcher, Max Pascher, Jens GerkenAuthors. MuC '26: Proceedings of Mensch und Computer 2026. Pages 520 - 524. <https://doi.org/10.1145/3820253.3831384> 
+
 520 Nguyễn, K., Vo, Q., To, L., & Le, N. (2026). **PHÂN TÍCH LIÊN NGÀNH VỀ ALBUM "FOLKLORE" CỦA TAYLOR SWIFT: ĐẶC ĐIỂM TỪ VỰNG, TÍNH PHỨC TẠP CỦA CHỦ ĐỀ VÀ ỨNG DỤNG SƯ PHẠM TRONG NỀN KINH TẾ SÁNG TẠO. (AN INTERDISCIPLINARY ANALYSIS OF TAYLOR SWIFT’S FOLKLORE:LEXICAL PROFILING, THEMATIC COMPLEXITY, AND PEDAGOGICAL APPLICATIONS IN THE CREATIVE ECONOMY)** Tạp Chí Khoa học Liên ngành Và Nghệ thuật, 2(3), 40-57. <https://doi.org/10.64711/r8f0eb16>
 
 519 Banjac, M. (2026). **Early formations of European youth policy: the role of the Common Assembly of the European Coal and Steel Community (1952–1958).** Critical Policy Studies, 1–21. <https://doi.org/10.1080/19460171.2026.2742224>
