@@ -6,7 +6,7 @@ These are records that I have found on the internet, or that authors have inform
 
 518 **Validación aplicada del modelo de madurez 2MPDeIS para proyectos de desarrollo e impacto social: Resultados del caso CORPOVALLE.** Diego Escobar. Project Design and Management, 8(2). <https://doi.org/10.35992/49p3ct14>
 
-517 Buscema, Francesco, Bertola, Lara, Converso, Daniela, Lorente Prieto, Laura, Colombo, Lara,** The Challenges of Public Healthcare: Exploratory Study of Job Demands–Resources on Italian Public Health Managers.** Health & Social Care in the Community, 2026, 1374868, 14 pages, 2026. <https://doi.org/10.1155/hsc/1374868>
+517 Buscema, Francesco, Bertola, Lara, Converso, Daniela, Lorente Prieto, Laura, Colombo, Lara, **The Challenges of Public Healthcare: Exploratory Study of Job Demands–Resources on Italian Public Health Managers.** Health & Social Care in the Community, 2026, 1374868, 14 pages, 2026. <https://doi.org/10.1155/hsc/1374868>
 
 516 Bruchhof SD, Mölsted Alvesson H, Idevall Hagren J, Winkle K, Matta L, Göransson M, McKeever S, Daivadanam M. **User Experiences With a Social Robot for Cardiometabolic Risk Assessment in a Community Setting in Uppsala, Sweden: Qualitative Semistructured Interview Study.** J Med Internet Res 2026;28:e87025. doi: 10.2196/87025. PMID: 42837519
 
