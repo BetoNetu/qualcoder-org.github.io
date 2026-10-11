@@ -2,6 +2,8 @@
 
 These are records that I have found on the internet, or that authors have informed me about. Studies, reports, abstracts, conference proceeding, datasets are listed from newest to oldest :
 
+527 **Making Sense of Animal-to-Human Drug Development Evidence: Stakeholder Practices, Challenges, and Requirements for AI Tools.** Rosni Vasu, Simona E. Doneva, Benjamin V. Ineichen. Human-Computer Interaction 2026. Preprint. <https://doi.org/10.48550/arXiv.2609.39808>
+
 526 **La Iniciativa de Seguridad Global: Bases conceptuales de la política de seguridad de la República Popular China actual.** América Pía Carvajal Piña. Revista Política y Estrategia  147 (2026) <https://doi.org/10.26797/rpye.vi147.1121>
 
 525 Iftanti, Erna, and Umniyati Ris’ah. 2026. **Beyond Digital-Native Assumptions: A Systematic Integrative Review of Generation Z Teachers and Learners in English Language Education.** Journal of Educational Research and Practice 4 (2). Tulungagung, Indonesia:182-216. <https://doi.org/10.70376/jerp.v4i2.457>
