@@ -2,6 +2,8 @@
 
 These are records that I have found on the internet, or that authors have informed me about. Studies, reports, abstracts, conference proceeding, datasets are listed from newest to oldest :
 
+526 **La Iniciativa de Seguridad Global: Bases conceptuales de la política de seguridad de la República Popular China actual.** América Pía Carvajal Piña. Revista Política y Estrategia  147 (2026) <https://doi.org/10.26797/rpye.vi147.1121>
+
 525 Iftanti, Erna, and Umniyati Ris’ah. 2026. **Beyond Digital-Native Assumptions: A Systematic Integrative Review of Generation Z Teachers and Learners in English Language Education.** Journal of Educational Research and Practice 4 (2). Tulungagung, Indonesia:182-216. <https://doi.org/10.70376/jerp.v4i2.457>
 
 524 Santos-Carvalho, A., & Navalhas, I. N. (2026). **Mapping science communication in Portugal: Twelve years of community, practices and traditions.** Cultures of Science, 9(3), 268-282. <https://doi.org/10.1177/20966083261481289>
