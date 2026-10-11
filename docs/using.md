@@ -2,6 +2,8 @@
 
 These are records that I have found on the internet, or that authors have informed me about. Studies, reports, abstracts, conference proceeding, datasets are listed from newest to oldest :
 
+522 Eashwar VM A, Nithya V, Charulatha RJ, Grace G A, Sujitha P, Sekhar MA. **A Culturally Derived Serious Videogame as an Adjunct to Pharmacotherapy for Depression: A Randomised Controlled Trial from Chennai, India.** Natl J Community Med [Internet]. 2026 Oct. 1;17(10):942-5. <https://njcmindia.com/index.php/file/article/view/6934>
+
 521 **Under Pressure: How Autonomy and Competence Shape AI Adoption in Citizen Broadcasting.** Kirill Kronhardt, Erik Böttcher, Max Pascher, Jens GerkenAuthors. MuC '26: Proceedings of Mensch und Computer 2026. Pages 520 - 524. <https://doi.org/10.1145/3820253.3831384> 
 
 520 Nguyễn, K., Vo, Q., To, L., & Le, N. (2026). **PHÂN TÍCH LIÊN NGÀNH VỀ ALBUM "FOLKLORE" CỦA TAYLOR SWIFT: ĐẶC ĐIỂM TỪ VỰNG, TÍNH PHỨC TẠP CỦA CHỦ ĐỀ VÀ ỨNG DỤNG SƯ PHẠM TRONG NỀN KINH TẾ SÁNG TẠO. (AN INTERDISCIPLINARY ANALYSIS OF TAYLOR SWIFT’S FOLKLORE:LEXICAL PROFILING, THEMATIC COMPLEXITY, AND PEDAGOGICAL APPLICATIONS IN THE CREATIVE ECONOMY)** Tạp Chí Khoa học Liên ngành Và Nghệ thuật, 2(3), 40-57. <https://doi.org/10.64711/r8f0eb16>
