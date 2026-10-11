@@ -2,6 +2,8 @@
 
 These are records that I have found on the internet, or that authors have informed me about. Studies, reports, abstracts, conference proceeding, datasets are listed from newest to oldest :
 
+528 Erwin Sugiarto, & Jurry Hatammimi. (2026). **THE EXPANSION ENGINE IN A NEW ENTRANT MARKETPLACE: COMMUNITY FEATURES AND A POTENTIAL BOUNDARY CONDITION IN THE TOCO CASE.** Journal Of Resource Management, Economics And Business, 5(3), 31–45. <https://doi.org/10.58468/remics.v5i3.280>
+
 527 **Making Sense of Animal-to-Human Drug Development Evidence: Stakeholder Practices, Challenges, and Requirements for AI Tools.** Rosni Vasu, Simona E. Doneva, Benjamin V. Ineichen. Human-Computer Interaction 2026. Preprint. <https://doi.org/10.48550/arXiv.2609.39808>
 
 526 **La Iniciativa de Seguridad Global: Bases conceptuales de la política de seguridad de la República Popular China actual.** América Pía Carvajal Piña. Revista Política y Estrategia  147 (2026) <https://doi.org/10.26797/rpye.vi147.1121>
