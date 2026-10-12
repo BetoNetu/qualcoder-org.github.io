@@ -2,6 +2,8 @@
 
 These are records that I have found on the internet, or that authors have informed me about. Studies, reports, abstracts, conference proceeding, datasets are listed from newest to oldest :
 
+532 **greCAPTCHA: Assessing Understanding as Evidence of Research Authorship Under Generative AI.** Justin Payan, Bálint Gyevnár, Atoosa Kasirzadeh, Nihar B. Shah. Digital Libraries. 2026 <https://doi.org/10.48550/arXiv.2609.20481>
+
 531 Lamiae HASNAOUI, **La résilience des écosystèmes artisanaux marocains comme patrimoine vivant : Une analyse par l’encastrement social et le sens pratique.** Sciences Methods and Technologies International Journal (SciMeTech), Vol 2, Special Issue (FR papers), P71-74. 
 
 530 **“Living as a threesome; me, him, and depression.” Nondepressed romantic partners’ perspective on communal coping regarding their depressed partner’s chronic symptoms of depression - a qualitative study.** V Salinas. Thesis University of Texas 2026. <https://doi.org/10.26153/tsw/64814>
