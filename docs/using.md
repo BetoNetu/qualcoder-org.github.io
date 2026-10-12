@@ -2,6 +2,8 @@
 
 These are records that I have found on the internet, or that authors have informed me about. Studies, reports, abstracts, conference proceeding, datasets are listed from newest to oldest :
 
+530 **“Living as a threesome; me, him, and depression.” Nondepressed romantic partners’ perspective on communal coping regarding their depressed partner’s chronic symptoms of depression - a qualitative study.** V Salinas. Thesis University of Texas 2026. <https://doi.org/10.26153/tsw/64814>
+
 529 Jarvis, A., and L. Kohnke. 2026. **Exploring Professional Digital Competence in Pre-Service English Teachers: From Reflective Growth to Future Pedagogical Envisioning.** TESOL Journal 17, no. 4: e70165. <https://doi.org/10.1002/tesj.70165>
 
 528 Erwin Sugiarto, & Jurry Hatammimi. (2026). **THE EXPANSION ENGINE IN A NEW ENTRANT MARKETPLACE: COMMUNITY FEATURES AND A POTENTIAL BOUNDARY CONDITION IN THE TOCO CASE.** Journal Of Resource Management, Economics And Business, 5(3), 31–45. <https://doi.org/10.58468/remics.v5i3.280>
