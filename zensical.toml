@@ -35,7 +35,7 @@ nav = [
 	{"Team" = "about.md"},  
 	{"Community" = "community.md"},  
 	{"en" = [
-		"doc/en/index.md",  
+		{"Overview" = "doc/en/index.md"},
 		# "doc/en/1.-Overview.md",
 		{"Setup" = [
 				"doc/en/2.1.-Installation.md",  
@@ -80,7 +80,7 @@ nav = [
 		]}
 	]},  
 	{"fr" = [
-		"doc/fr/index.md",  
+		{"Présentation" = "doc/fr/index.md"},
 		# "doc/fr/1.-Overview.md",
 		{"Démarrer" = [
 				"doc/fr/2.1.-Installation.md",  
@@ -125,7 +125,7 @@ nav = [
 		]}
 	]},  
 	{"es" = [
-		"doc/es/index.md",  
+		{"Visión general" = "doc/es/index.md"},
 		# "doc/es/1.-Overview.md",
 		{"Configuración" = [
 				"doc/es/2.1.-Installation.md",  
@@ -165,7 +165,7 @@ nav = [
 		]}
 	]},  
 	{"de" = [
-		"doc/de/index.md",  
+		{"Übersicht" = "doc/de/index.md"},
 		# "doc/de/1.-Overview.md",
 		{"Einrichtung" = [
 				"doc/de/2.1.-Installation.md",  
@@ -204,17 +204,17 @@ nav = [
 			"doc/de/7.6.-How-to-contribute.md"
 		]}
 	]},
-	{"eo" = ["doc/eo/index.md"]},
-	{"eu" = ["doc/eu/index.md"]},
-	{"it" = ["doc/it/index.md"]},
-	{"ht" = ["doc/ht/index.md"]},
-	{"oc" = ["doc/oc/index.md"]},
-	{"pt" = ["doc/pt/index.md"]},
-	{"ro" = ["doc/ro/index.md"]},
-	{"sv" = ["doc/sv/index.md"]},
-	{"fa" = ["doc/fa/index.md"]},
-	{"zh" = ["doc/zh/index.md"]},
-	{"ja" = ["doc/ja/index.md"]}
+	{"eo" = [{"Superrigardo" = "doc/eo/index.md"}]},
+	{"eu" = [{"Ikuspegi orokorra" = "doc/eu/index.md"}]},
+	{"it" = [{"Panoramica" = "doc/it/index.md"}]},
+	{"ht" = [{"Apèsi" = "doc/ht/index.md"}]},
+	{"oc" = [{"Vista d’ensemble" = "doc/oc/index.md"}]},
+	{"pt" = [{"Visão geral" = "doc/pt/index.md"}]},
+	{"ro" = [{"Prezentare generală" = "doc/ro/index.md"}]},
+	{"sv" = [{"Översikt" = "doc/sv/index.md"}]},
+	{"fa" = [{"نمای کلی" = "doc/fa/index.md"}]},
+	{"zh" = [{"概览" = "doc/zh/index.md"}]},
+	{"ja" = [{"概要" = "doc/ja/index.md"}]}
 ]
   
 [project.theme]
@@ -245,7 +245,7 @@ features = [
   "content.tabs.link",
   "content.tooltips",
   "navigation.footer",
-  "navigation.indexes",
+  # Show language index pages as explicit overview links in the sidebar.
   "navigation.path",
   "navigation.sections",
   "navigation.tabs",
