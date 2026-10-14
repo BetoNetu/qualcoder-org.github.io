@@ -80,7 +80,7 @@ nav = [
 		]}
 	]},  
 	{"fr" = [
-		{"Vue d’ensemble" = "doc/fr/index.md"},
+		{"Présentation" = "doc/fr/index.md"},
 		# "doc/fr/1.-Overview.md",
 		{"Démarrer" = [
 				"doc/fr/2.1.-Installation.md",  
