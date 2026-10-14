@@ -217,7 +217,7 @@ nav = [
 	{"ja" = [{"概要" = "doc/ja/index.md"}]}
 ]
   
-# Keep help links in previously released English apps working.
+# Keep English and French help links in previously released apps working.
 # The former Reports URL redirects to a legacy landing page because its
 # contents are now split between Analysis and Reports.
 [project.plugins.redirects.redirect_maps]
@@ -225,6 +225,10 @@ nav = [
 "doc/en/4.6-Code-Organiser.md" = "doc/en/4.6.-Code-Organiser.md"
 "doc/en/5.4.-Graph.md" = "doc/en/5.5.-Graph.md"
 "doc/en/5.3.-Reports.md" = "doc/en/5.3.-legacy-reports-landing.md"
+"doc/fr/6.2.-AI-Prompt-Editing.md" = "doc/fr/6.3.-AI-Prompt-Library.md"
+"doc/fr/4.6-Code-Organiser.md" = "doc/fr/4.6.-Code-Organiser.md"
+"doc/fr/5.4.-Graph.md" = "doc/fr/5.5.-Graph.md"
+"doc/fr/5.3.-Reports.md" = "doc/fr/5.3.-legacy-reports-landing.md"
 
 [project.theme]
 variant = "modern"  
