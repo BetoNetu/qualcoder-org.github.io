@@ -3,43 +3,49 @@ path: index
 ---
 # Was ist QualCoder?
 
-QualCoder ist eine kostenlose Open-Source-Desktop-Software zur qualitativen Datenanalyse.
+QualCoder ist eine kostenlose Open-Source-Desktopsoftware für die qualitative Datenanalyse.
 
-![Bildschirm zur Textkodierung](/images/3ecb4d97-86df-4688-8280-69108022dda0.png)
+Mit QualCoder können Sie Texte, Bilder und Audio/Video codieren sowie Notizbücher und Memos schreiben. Codes lassen sich in einem hierarchischen Kategoriensystem organisieren. Verschiedene Berichte können erstellt und meist als HTML, ODT, reine Textdateien oder Excel-Dateien exportiert werden.
 
-QualCoder kann Text, Bilder, Audio- und Videodateien kodieren sowie Tagebuchnotizen und Memos erstellen. Sie können Codes in einem baumartigen Kategorisierungsschema organisieren. Es können verschiedene Berichte erstellt werden. Die meisten Berichte lassen sich als HTML-, OpenDocument-Text- (ODT), Nur-Text- oder Excel-Dateien exportieren.
+QualCoder bietet KI-Funktionen, die große Sprachmodelle einsetzen, um Daten zu erkunden und zu analysieren. Lernen Sie neue Daten durch die Exploration übergreifender Themen oder Konzepte im interaktiven KI-Chat kennen. Vertiefen Sie einzelne Aspekte mit KI-gestützter Codierung und Textanalyse. Wenn Sie Ihre Ergebnisse zusammenführen und verdichten möchten, können Sie sie in einer Codeanalyse mit der KI besprechen.
 
-QualCoder enthält eine Reihe von KI-gestützten Funktionen, die große Sprachmodelle nutzen, um Daten auf innovative Weise zu erkunden, zu analysieren und mit ihnen zu interagieren. Machen Sie sich mit neuen Daten vertraut, indem Sie in einem interaktiven Chat mit der KI allgemeine Themen oder Konzepte erkunden. Tauchen Sie mit KI-gestützter Kodierung und Textanalyse tiefer in bestimmte Aspekte ein. Und wenn Sie an den Punkt gelangen, an dem Sie Ihre Ergebnisse zusammenfassen und konsolidieren müssen, besprechen Sie diese in einem Code-Chat mit der KI.
+!!! note "Warum QualCoder?"
+    - **QualCoder ist kostenlos.** Viele Programme zur qualitativen Datenanalyse verlangen hohe einmalige Gebühren oder monatliche Abonnements.
+    - **QualCoder ist einfach zu bedienen.** Es bietet die benötigten Funktionen für qualitative Analysen mit einer übersichtlichen Oberfläche.
+    - **QualCoder funktioniert offline.** Für die grundlegenden Funktionen ist keine Internetverbindung erforderlich.
+    - **QualCoder ist nicht an einen Computer gebunden.** Bei einem Arbeitsplatzwechsel benötigen Sie keine neue Lizenz. Die Lizenz erlaubt die Nutzung unabhängig vom Arbeitsplatz oder Computer.
+    - **QualCoder läuft auf mehreren Plattformen.** Es unterstützt Linux, Windows und macOS. Sie können das Betriebssystem wechseln und mit Kolleg:innen auf anderen Plattformen zusammenarbeiten.
+    - **QualCoder lebt von seiner Community.** Melden Sie Fehler, Funktionswünsche und Rückmeldungen auf der [GitHub-Seite von QualCoder](https://github.com/ccbogel/QualCoder).
+    - **QualCoder wird weiterentwickelt.** Regelmäßig erscheinen neue, verbesserte Versionen.
+    - **QualCoder unterstützt offene Standards.** Ziel ist die Unterstützung des [REFI-QDA-Standards](https://www.qdasoftware.org/). Damit lassen sich Codebücher und Projekte mit Kolleg:innen austauschen, deren Software diesen Standard ebenfalls unterstützt. Die vollständige Kompatibilität des REFI-QDA-Projektaustauschs ist noch nicht gewährleistet. Insbesondere Audio/Video-Importe und -Exporte sowie Dateien mit relativen Verknüpfungen müssen weiter getestet werden.
+    - **QualCoder lässt sich anpassen.** Sie können die Software verändern und an Ihre Bedürfnisse anpassen, sofern Sie Ihre Änderungen allen zugänglich machen. Sie dürfen die Software auch kostenlos an Kolleg:innen oder Studierende weitergeben.
+    - **QualCoder unterstützt offene Wissenschaft.** Siehe die [UNESCO-Empfehlungen zu Open Science](https://www.unesco.org/en/open-science?hub=686).
+    - **Barrierefreiheit.** QualCoder kann simulieren, wie Codefarben für Menschen mit verschiedenen Formen von Farbfehlsichtigkeit aussehen. Laut dem [Erfahrungsbericht einer Benutzer:in mit Sehbehinderung](https://www.linkedin.com/posts/reda-grich-911632239_worth-sharing-finally-found-a-qualitative-share-7425490644418224128-VDd9/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABD4PqcBUo9og1pXa34wBIyLtnyMxs5qJTM) ist QualCoder mit dem Screenreader NVDA vollständig bedienbar.
 
+## Aktuelle Veröffentlichung
 
-!!! note "Warum QualCoder verwenden?"
-    - **QualCoder ist kostenlos**. Viele Programme zur qualitativen Analyse erfordern teure Einmalgebühren oder monatliche Abonnements.
-    - **QualCoder ist benutzerfreundlich**. Es bietet alles, was Sie für die qualitative Analyse benötigen, ohne die komplizierten Benutzeroberflächen einiger Alternativen
-    - **QualCoder funktioniert offline**. Internet ist nicht immer verfügbar, und QualCoder benötigt kein Internet, um zu funktionieren.
-    - **QualCoder ist nicht an einen Computer gebunden**. Wenn Sie den Arbeitsplatz wechseln, müssen Sie sich keine Sorgen machen, an die Lizenz Ihres früheren Arbeitsplatzes gebunden zu sein oder eine neue Lizenz kaufen zu müssen. Mit der QualCoder-Lizenz können Sie die Software unabhängig davon nutzen, wo Sie arbeiten oder auf welchem Computer sie installiert ist.
-    - **QualCoder ist plattformübergreifend**. Es läuft unter Linux, Windows und macOS. Das bedeutet, dass Sie sich keine Sorgen machen müssen, wenn Sie das Betriebssystem wechseln, und dass Sie mit Kollegen auf verschiedenen Plattformen zusammenarbeiten können. Siehe Hinweis.
-    - **QualCoder stützt sich auf die Community**. Wenn Sie einen Fehler finden, eine Funktionsanfrage haben oder Feedback geben möchten, schreiben Sie dies auf der [QualCoder-Seite auf GitHub](https://github.com/ccbogel/QualCoder).
-    - **QualCoder wird ständig verbessert**. QualCoder wird aktiv weiterentwickelt, was bedeutet, dass regelmäßig neue, verbesserte Versionen veröffentlicht werden.
-    - **QualCoder unterstützt offene Standards**. QualCoder zielt darauf ab, den [REFI-QDA-Standard](https://www.qdasoftware.org/) zu unterstützen. Sie können Codebücher und Projekte mit Ihren Kollegen austauschen, auch wenn diese QualCoder nicht verwenden, vorausgesetzt, die von ihnen verwendete Software unterstützt den REFI-QDA-Standard. Das bedeutet, dass Sie nicht riskieren, dass Ihre Daten nicht mehr verfügbar sind. Die 100-prozentige Konformität mit dem REFI-QDA-Projekt ist noch nicht garantiert. Es sind weitere Tests erforderlich, insbesondere für den Export und Import von Audio- und Videodateien sowie für relativ verknüpfte Dateien.
-    - **QualCoder kann modifiziert werden**. Sie können QualCoder an Ihre Bedürfnisse anpassen, vorausgesetzt, Sie stellen Ihre Änderungen allen zur Verfügung. Das bedeutet auch, dass Sie die Software kopieren und kostenlos an Ihre Kollegen oder Studierenden weitergeben können.
-    - **QualCoder ist eine Softwareoption, die zur Unterstützung von Open Science entwickelt wurde**. [UNESCO-Empfehlungen zu Open Science](https://www.unesco.org/en/open-science?hub=686)
+[:octicons-archive-24: Neueste Version auf GitHub herunterladen](https://github.com/ccbogel/QualCoder/releases/latest){ .md-button .md-button--primary }
 
-## Aktuelle Version
-
-[:octicons-archive-24: Aktuellste auf GitHub verfügbare Version herunterladen](https://github.com/ccbogel/QualCoder/releases/latest){ .md-button .md-button--primary }
+Den aktuellen Entwicklungsstand finden Sie auf [GitHub](https://github.com/ccbogel/QualCoder).
 
 ## QualCoder unterstützen
 
-Wenn Ihnen QualCoder gefällt und Sie es für Ihre Arbeit nützlich finden, hinterlassen Sie bitte eine Bewertung auf diesen Seiten, wie [Saashub](https://www.saashub.com/qualcoder-alternatives) oder [AlternativeTo](https://alternativeto.net/software/qualcoder).
+Wenn QualCoder Ihnen bei Ihrer Arbeit hilft, schreiben Sie eine Bewertung, etwa auf [Saashub](https://www.saashub.com/qualcoder-alternatives) oder [AlternativeTo](https://alternativeto.net/software/qualcoder).
 
-Wenn Ihnen QualCoder besonders gut gefällt oder Sie eine neuartige Anwendung dafür entwickelt haben, schreiben Sie bitte einen Artikel über QualCoder.
+Wenn Sie QualCoder besonders schätzen oder einen neuen Einsatzzweck entwickelt haben, schreiben Sie einen Artikel darüber.
 
-Es hat viele, viele Arbeitsstunden gekostet, diese Software zu entwickeln, die kostenlos zur Verfügung gestellt wird. **Wenn Sie QualCoder nutzen und mögen, unterstützen Sie bitte die Entwicklung.**
+In dieser kostenlos nutzbaren Software stecken viele Arbeitsstunden. **Wenn Sie QualCoder nutzen und mögen, unterstützen Sie bitte die Entwicklung.**
 
-<a href="https://www.buymeacoffee.com/ccbogelB" target="_blank">![Buy Me A Coffee](/images/buymeacoffee-default-orange.png)</a>
+[![Buy Me A Coffee](/images/buymeacoffee-default-orange.png)](https://www.buymeacoffee.com/ccbogelB)
 
-QualCoder ist in Python geschrieben und verwendet Qt6 für die grafische Benutzeroberfläche. QualCoder wurde unter Windows 11, macOS und verschiedenen Linux-Distributionen getestet: Ubuntu, Lubuntu, ZorinOS, Arch, Fedora.
+QualCoder ist in Python geschrieben und verwendet Qt6 für die grafische Oberfläche. Es wird unter Windows 11, macOS und verschiedenen Linux-Distributionen eingesetzt, darunter Ubuntu, Lubuntu, ZorinOS, Arch und Fedora.
+
+## Zitierempfehlung
+
+Curtain, C. Dröge, K. Missaghieh--Poncet, J. Salomón, L. (2026) QualCoder 4.0 [Computer software]. Retrieved from https://github.com/ccbogel/QualCoder/releases/tag/4.0
+
+Ersetzen Sie die Versionsnummer (4.0) durch die von Ihnen verwendete Version.
 
 ## Lizenz
 
-QualCoder unterliegt der LGPL v3-Lizenz.
+QualCoder steht unter der LGPL-v3-Lizenz.
