@@ -1,0 +1,7 @@
+# Generated local site and Zensical build cache.
+/site/
+/.cache/
+
+# Temporary configurations and output used for local redirect checks.
+/.redirect-check.toml
+/.redirect-check-site/
