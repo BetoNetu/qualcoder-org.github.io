@@ -5,6 +5,8 @@ path: index
 
 QualCoder is free, open source desktop software for qualitative data analysis.
 
+QualCoder is for individual researchers, academics, students or small teams managing their own qualitative or mixed-methods  projects.
+
 QualCoder can code text, images, audio and video, write journal notes and memos. You can organise codes in a tree-like categorisation scheme. Various reports can be generated. Most reports can be exported as html, open document text (ODT), plain text or Excel files.
 
 QualCoder includes a set of AI-assisted features that utilise Large Language Models to help explore, analyse, and interact with data in innovative ways. Familiarise yourself with new data by exploring broad topics or concepts in an interactive chat with the AI. Dive deeper into specific aspects with AI-assisted coding and text analysis. And if you reach the point where you must synthesise and consolidate your results, discuss them in a code chat with the AI.
