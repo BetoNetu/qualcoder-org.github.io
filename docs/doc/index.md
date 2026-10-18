@@ -4,5 +4,6 @@
 - [Dokumentation auf Deutsch](de)
 - [Documentación en español](es)
 - [Documentation en français](fr)
+- [Documentação em português](pt)
 
 </div>
