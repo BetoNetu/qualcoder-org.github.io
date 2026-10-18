@@ -49,7 +49,7 @@ Translations are maintained through the `.po`/`.ts` files in `other_languages` a
 | Kai Dröge                | German   |
 | Justin Missaghieh-Poncet | French   |
 | Lorenzo Salomón          | Spanish  |
-|                          |          |
+| BetoNetu                 |Portuguese|
 
 
 ## How decisions are made
