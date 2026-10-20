@@ -4,12 +4,23 @@ on:
     branches:
       - master
       - main
+  pull_request:
 permissions:
   contents: read
   pages: write
   id-token: write
 jobs:
+  check-anchors:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+      - name: Check translated heading anchors
+        run: python scripts/check_anchors.py
   deploy:
+    if: github.event_name == 'push'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
