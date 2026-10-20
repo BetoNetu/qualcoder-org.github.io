@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
-"""Check that translated docs carry explicit English-aligned heading anchors.
+"""Check that docs carry explicit heading anchors.
 
-For every language other than English (fr, de, es, pt, ...), each heading of
-level 2 or more in docs/doc/<lang>/*.md must carry an explicit attr_list
-anchor ({ #some-id }) so that cross-page links written against the English
-slugs keep working in translations. The level-1 headings, index.md and the
-generated print.md are ignored.
+Every heading of level 2 or more in docs/doc/<lang>/*.md (English included)
+must carry an explicit attr_list anchor ({ #some-id }). In translations,
+anchors are aligned on the English slugs so cross-page links written
+against English ids keep working in every language; in English, the anchor
+gels the current auto-generated id so rewording a title can never silently
+break links. The level-1 headings, index.md and the generated print.md are
+ignored.
 
 Usage:
     python scripts/check_anchors.py            # every language
@@ -65,8 +67,7 @@ def main(argv: list[str]) -> int:
     langs = argv[1:]
     if not langs:
         langs = sorted(
-            d.name for d in DOC_DIR.iterdir()
-            if d.is_dir() and d.name != "en")
+            d.name for d in DOC_DIR.iterdir() if d.is_dir())
     failed = False
     for lang in langs:
         problems = check_language(lang)
