@@ -24,13 +24,13 @@ QualCoder includes a set of AI-assisted features that utilise Large Language Mod
     - **QualCoder is a software option to support open science**. [UNESCO recommendations on open science](https://www.unesco.org/en/open-science?hub=686)
     - **Accessibility**. Qualcoder allows you to see what coding colours may look like for people with various colour-blindness. According to a vision-impaired user of QualCoder, QualCoder is fully functional with the NVDA screen reader [LinkedIn Post](https://www.linkedin.com/posts/reda-grich-911632239_worth-sharing-finally-found-a-qualitative-share-7425490644418224128-VDd9/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABD4PqcBUo9og1pXa34wBIyLtnyMxs5qJTM).
 
-## Current release
+## Current release {#current-release}
 
 [:octicons-archive-24: Download latest version available on GitHub](https://github.com/ccbogel/QualCoder/releases/latest){ .md-button .md-button--primary }
 
 The in development code is available here: [https://github.com/ccbogel/QualCoder](https://github.com/ccbogel/QualCoder)
 
-## Support QualCoder
+## Support QualCoder {#support-qualcoder}
 
 If you like QualCoder and found it useful for your work. Please leave a review on these sites, like [Saashub](https://www.saashub.com/qualcoder-alternatives) or [AlternativeTo](https://alternativeto.net/software/qualcoder).
 
@@ -42,12 +42,12 @@ It has taken many, many hours of work to create this software that is provided f
 
 QualCoder is written in python using Qt6 for the graphical interface. QualCoder has been used on Windows 11, macOS and various Linux distros: Ubuntu, Lubuntu, ZorinOS, Arch, Fedora.
 
-## Citation
+## Citation {#citation}
 
 Curtain, C. Dröge, K. Missaghieh--Poncet, J. Salomón, L. (2026) QualCoder 4.0 [Computer software]. Retrieved from https://github.com/ccbogel/QualCoder/releases/tag/4.0
 
 Replace the version number (4.0) as needed for the version you are using.
 
-## License
+## License {#license}
 
 QualCoder is licensed under the LGPL v3 licence.

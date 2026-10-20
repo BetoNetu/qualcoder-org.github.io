@@ -22,13 +22,13 @@ QualCoder bietet KI-Funktionen, die große Sprachmodelle einsetzen, um Daten zu 
     - **QualCoder unterstützt offene Wissenschaft.** Siehe die [UNESCO-Empfehlungen zu Open Science](https://www.unesco.org/en/open-science?hub=686).
     - **Barrierefreiheit.** QualCoder kann simulieren, wie Codefarben für Menschen mit verschiedenen Formen von Farbfehlsichtigkeit aussehen. Laut dem [Erfahrungsbericht einer Benutzer:in mit Sehbehinderung](https://www.linkedin.com/posts/reda-grich-911632239_worth-sharing-finally-found-a-qualitative-share-7425490644418224128-VDd9/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABD4PqcBUo9og1pXa34wBIyLtnyMxs5qJTM) ist QualCoder mit dem Screenreader NVDA vollständig bedienbar.
 
-## Aktuelle Veröffentlichung
+## Aktuelle Veröffentlichung {#current-release}
 
 [:octicons-archive-24: Neueste Version auf GitHub herunterladen](https://github.com/ccbogel/QualCoder/releases/latest){ .md-button .md-button--primary }
 
 Den aktuellen Entwicklungsstand finden Sie auf [GitHub](https://github.com/ccbogel/QualCoder).
 
-## QualCoder unterstützen
+## QualCoder unterstützen {#support-qualcoder}
 
 Wenn QualCoder Ihnen bei Ihrer Arbeit hilft, schreiben Sie eine Bewertung, etwa auf [Saashub](https://www.saashub.com/qualcoder-alternatives) oder [AlternativeTo](https://alternativeto.net/software/qualcoder).
 
@@ -40,12 +40,12 @@ In dieser kostenlos nutzbaren Software stecken viele Arbeitsstunden. **Wenn Sie 
 
 QualCoder ist in Python geschrieben und verwendet Qt6 für die grafische Oberfläche. Es wird unter Windows 11, macOS und verschiedenen Linux-Distributionen eingesetzt, darunter Ubuntu, Lubuntu, ZorinOS, Arch und Fedora.
 
-## Zitierempfehlung
+## Zitierempfehlung {#citation}
 
 Curtain, C. Dröge, K. Missaghieh--Poncet, J. Salomón, L. (2026) QualCoder 4.0 [Computer software]. Retrieved from https://github.com/ccbogel/QualCoder/releases/tag/4.0
 
 Ersetzen Sie die Versionsnummer (4.0) durch die von Ihnen verwendete Version.
 
-## Lizenz
+## Lizenz {#license}
 
 QualCoder steht unter der LGPL-v3-Lizenz.

@@ -21,7 +21,7 @@ QualCoder incluye un conjunto de funciones asistidas por IA que utilizan grandes
     - **QualCoder puede modificarse**. Usted puede modificar y adaptar QualCoder a sus necesidades, siempre que publique sus cambios para todos. Esto también significa que puede copiar el software y entregárselo a sus colegas o estudiantes de forma gratuita.
     - **QualCoder es una opción de software para apoyar la ciencia abierta**. [Recomendaciones de la UNESCO sobre ciencia abierta](https://www.unesco.org/en/open-science?hub=686)
 
-## Versión actual
+## Versión actual {#current-release}
 Las versiones del software están disponibles en [Github](https://github.com/ccbogel/QualCoder/releases). Estas contienen el código fuente y los ejecutables. Los ejecutables son una forma sencilla de ejecutar QualCoder, haga doble clic para ejecutarlo, solo tenga en cuenta que puede tardar hasta 20 segundos en abrirse.
 
 
@@ -37,7 +37,7 @@ Las versiones del software están disponibles en [Github](https://github.com/ccb
 
 El código en desarrollo está disponible aquí: [https://github.com/ccbogel/QualCoder](https://github.com/ccbogel/QualCoder)
 
-## Apoye a QualCoder
+## Apoye a QualCoder {#support-qualcoder}
 
 Si le gusta QualCoder y le resultó útil para su trabajo. Por favor deje una reseña en sitios como [Saashub](https://www.saashub.com/qualcoder-alternatives) o [AlternativeTo](https://alternativeto.net/software/qualcoder).
 
@@ -49,12 +49,12 @@ Ha tomado muchísimas horas de trabajo crear este software que se ofrece de form
 
 QualCoder está escrito en python usando Qt6 para la interfaz gráfica. QualCoder se ha utilizado en Windows 11, macOS y varias distribuciones de Linux: Ubuntu, Lubuntu, ZorinOS, Arch, Fedora.
 
-## Cita
+## Cita {#citation}
 
 Curtain, C. Dröge, K. Missaghieh--Poncet, J. Salomón, L. (2025) QualCoder 3.8.2 [Computer software]. Recuperado de https://github.com/ccbogel/QualCoder/releases/tag/3.8.2
 
 Reemplace el número de versión (3.8.2) según corresponda a la versión que esté utilizando.
 
-## Licencia
+## Licencia {#license}
 
 QualCoder se distribuye bajo la licencia LGPL v3.
