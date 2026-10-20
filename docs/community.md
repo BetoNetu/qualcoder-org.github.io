@@ -96,6 +96,7 @@ You can view the list of translation coordinators on [this page](https://qualcod
     ---
 
     *Community maintained*
+    Translator coordinator: Alberto Antonio Rebonatto Neto
 
     [:octicons-arrow-right-24: Download language file](https://github.com/ccbogel/QualCoder/raw/refs/heads/master/other_languages/pt.zip)
 
