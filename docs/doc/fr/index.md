@@ -24,7 +24,7 @@ QualCoder comprend un ensemble de fonctionnalités assistées par l’IA qui uti
     - **QualCoder peut être modifié**. Vous pouvez modifier et adapter QualCoder à vos besoins, à condition de mettre vos modifications à la disposition de tous. Cela signifie également que vous pouvez copier le logiciel et le transmettre gratuitement à vos collègues ou à vos étudiants.
     - **QualCoder est un logiciel conçu pour soutenir la science ouverte**. [Recommandations de l’UNESCO sur la science ouverte](https://www.unesco.org/en/open-science?hub=686)
 
-## Version actuelle
+## Version actuelle {#current-release}
 Les versions du logiciel sont disponibles sur [GitHub](https://github.com/ccbogel/QualCoder/releases). Elles contiennent le code source et les fichiers exécutables. Les fichiers exécutables constituent un moyen simple d’exécuter QualCoder : il suffit de double-cliquer dessus pour le lancer, mais sachez que l’ouverture peut prendre jusqu’à 20 secondes.
 
 [:octicons-archive-24: Dernière version stable disponible sur GitHub](/latest){ .md-button .md-button--primary }
@@ -42,7 +42,7 @@ Les versions du logiciel sont disponibles sur [GitHub](https://github.com/ccboge
 
 La version en développement est disponible ici : [https://github.com/ccbogel/QualCoder](https://github.com/ccbogel/QualCoder)
 
-## Soutenir QualCoder
+## Soutenir QualCoder {#support-qualcoder}
 
 Si vous appréciez QualCoder et que vous l’avez trouvé utile dans votre travail, n’hésitez pas à laisser un avis sur des sites tels que [Saashub](https://www.saashub.com/qualcoder-alternatives) ou [AlternativeTo](https://alternativeto.net/software/qualcoder).
 
@@ -54,12 +54,12 @@ La création de ce logiciel, mis à disposition gratuitement, a nécessité de t
 
 QualCoder est écrit en Python et utilise Qt6 pour l’interface graphique. QualCoder a été utilisé sous Windows 11, macOS et diverses distributions Linux : Ubuntu, Lubuntu, ZorinOS, Arch, Fedora.
 
-## Citation
+## Citation {#citation}
 
 Curtain, C. Dröge, K. Missaghieh--Poncet, J. Salomón, L. (2026) QualCoder 4.0 [Logiciel]. Disponible à l’adresse suivante : https://github.com/ccbogel/QualCoder/releases/tag/4.0
 
 Remplacer le numéro de version (4.0) au besoin par la version que vous utilisez.
 
-## Licence
+## Licence {#license}
 
 QualCoder est sous licence LGPL v3.
