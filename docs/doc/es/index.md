@@ -5,12 +5,14 @@ path: index
 
 QualCoder es un software de escritorio gratuito y de código abierto para el análisis de datos cualitativos.
 
+QualCoder está pensado para investigadores individuales, académicos, estudiantes o equipos pequeños que gestionan sus propios proyectos cualitativos o de métodos mixtos.
+
 QualCoder puede codificar texto, imágenes, audio y video, escribir notas de diario y memos. Puede organizar los códigos en un esquema de categorización en forma de árbol. Se pueden generar diversos informes. La mayoría de los informes se pueden exportar como archivos html, texto de documento abierto (ODT), texto plano o Excel.
 
 QualCoder incluye un conjunto de funciones asistidas por IA que utilizan grandes modelos de lenguaje para ayudar a explorar, analizar e interactuar con los datos de maneras innovadoras. Familiarícese con datos nuevos explorando temas o conceptos amplios en un chat interactivo con la IA. Profundice en aspectos específicos con la codificación asistida por IA y el análisis de texto. Y si llega al punto en el que debe sintetizar y consolidar sus resultados, discútalos en un chat de códigos con la IA.
 
 !!! note "¿Por qué usar QualCoder?"
-    - **QualCoder es gratuito**. Muchos software de análisis cualitativo exigen costosos pagos únicos o suscripciones mensuales.
+    - **QualCoder es gratuito**. Muchos programas de análisis cualitativo cobran costosos pagos únicos o suscripciones mensuales.
     - **QualCoder es fácil de usar**. Tiene todo lo que necesita para realizar análisis cualitativo sin las complicadas interfaces de algunas alternativas
     - **QualCoder funciona sin conexión**. Internet no siempre está disponible y QualCoder no requiere internet para funcionar.
     - **QualCoder no está atado a una computadora**. Si cambia de lugar de trabajo no tiene que preocuparse por quedar atado a la licencia de su antiguo lugar de trabajo ni por comprar una nueva licencia. La licencia de QualCoder le permite usar el software sin importar dónde trabaje ni en qué computadora esté instalado.
@@ -20,20 +22,11 @@ QualCoder incluye un conjunto de funciones asistidas por IA que utilizan grandes
     - **QualCoder admite estándares abiertos**. QualCoder busca admitir el [estándar REFI-QDA](https://www.qdasoftware.org/), usted puede intercambiar libros de códigos y proyectos con sus colegas incluso si no usan QualCoder, siempre que el software que utilicen admita el estándar REFI-QDA. Esto significa que no corre el riesgo de que sus datos queden inaccesibles. Todavía no se garantiza que el proyecto REFI-QDA cumpla al 100 %. Se necesitan más pruebas, en particular para las exportaciones e importaciones de audio y video y para los archivos vinculados de forma relativa.
     - **QualCoder puede modificarse**. Usted puede modificar y adaptar QualCoder a sus necesidades, siempre que publique sus cambios para todos. Esto también significa que puede copiar el software y entregárselo a sus colegas o estudiantes de forma gratuita.
     - **QualCoder es una opción de software para apoyar la ciencia abierta**. [Recomendaciones de la UNESCO sobre ciencia abierta](https://www.unesco.org/en/open-science?hub=686)
+    - **Accesibilidad**. QualCoder le permite ver cómo podrían verse los colores de codificación para personas con distintos tipos de daltonismo. Según un usuario de QualCoder con discapacidad visual, QualCoder es totalmente funcional con el lector de pantalla NVDA [Publicación en LinkedIn](https://www.linkedin.com/posts/reda-grich-911632239_worth-sharing-finally-found-a-qualitative-share-7425490644418224128-VDd9/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABD4PqcBUo9og1pXa34wBIyLtnyMxs5qJTM).
 
 ## Versión actual {#current-release}
-Las versiones del software están disponibles en [Github](https://github.com/ccbogel/QualCoder/releases). Estas contienen el código fuente y los ejecutables. Los ejecutables son una forma sencilla de ejecutar QualCoder, haga doble clic para ejecutarlo, solo tenga en cuenta que puede tardar hasta 20 segundos en abrirse.
 
-
-[:octicons-archive-24: Última versión de QualCoder (3.8.2) disponible en GitHub](/latest){ .md-button .md-button--primary }
-
-[:fontawesome-brands-windows: Instalador de QualCoder_3.8.2 para Windows 11](/latest-windows){ .md-button .md-button--primary }
-
-[:fontawesome-brands-windows: QualCoder_3.8.2 portable para Windows 11 (Todo el software en un solo archivo, más lento al iniciar)](/latest-windows-portable){ .md-button .md-button--primary }
-
-[:material-apple: QualCoder_3.8.2 macOS arm64](/latest-mac){ .md-button .md-button--primary }
-
-[:material-linux: QualCoder_3.8.2_Ubuntu](/latest-linux){ .md-button .md-button--primary }
+[:octicons-archive-24: Descargue la última versión disponible en GitHub](https://github.com/ccbogel/QualCoder/releases/latest){ .md-button .md-button--primary }
 
 El código en desarrollo está disponible aquí: [https://github.com/ccbogel/QualCoder](https://github.com/ccbogel/QualCoder)
 
@@ -45,15 +38,15 @@ Si le gusta mucho QualCoder, o ha desarrollado un uso novedoso para él, por fav
 
 Ha tomado muchísimas horas de trabajo crear este software que se ofrece de forma gratuita.**Si usa y le gusta QualCoder, por favor apoye su desarrollo.**
 
-<a href="https://www.buymeacoffee.com/ccbogelB" target="_blank">![Buy Me A Coffee](/images/buymeacoffee-default-orange.png)</a>
+[![Buy Me A Coffee](/images/buymeacoffee-default-orange.png)](https://www.buymeacoffee.com/ccbogelB)
 
 QualCoder está escrito en python usando Qt6 para la interfaz gráfica. QualCoder se ha utilizado en Windows 11, macOS y varias distribuciones de Linux: Ubuntu, Lubuntu, ZorinOS, Arch, Fedora.
 
 ## Cita {#citation}
 
-Curtain, C. Dröge, K. Missaghieh--Poncet, J. Salomón, L. (2025) QualCoder 3.8.2 [Computer software]. Recuperado de https://github.com/ccbogel/QualCoder/releases/tag/3.8.2
+Curtain, C. Dröge, K. Missaghieh--Poncet, J. Salomón, L. (2026) QualCoder 4.0 [Computer software]. Recuperado de https://github.com/ccbogel/QualCoder/releases/tag/4.0
 
-Reemplace el número de versión (3.8.2) según corresponda a la versión que esté utilizando.
+Reemplace el número de versión (4.0) según corresponda a la versión que esté utilizando.
 
 ## Licencia {#license}
 
