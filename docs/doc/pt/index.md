@@ -5,12 +5,12 @@ path: index
 
 O QualCoder é um software livre e de código aberto para análise de dados qualitativos. 
 
-O QualCoder você pode codificar texto, imagens, áudio e vídeo, escrever notas de diário e memorandos. Você pode organizar códigos em um esquema de categorização em árvore. Vários tipos de relatórios podem ser gerados. A maioria dos relatórios pode ser exportada como html, texto de documento aberto (ODT), texto simples ou arquivos de Excel (XLSX).
+Com o QualCoder você pode codificar texto, imagens, áudio e vídeo, escrever notas de diário e memorandos. Você pode organizar códigos em um esquema de categorização em árvore. Vários tipos de relatórios podem ser gerados. A maioria dos relatórios pode ser exportada como html, texto de documento aberto (ODT), texto simples ou arquivos de Excel (XLSX).
 
 O QualCoder inclui um conjunto de recursos assistidos por IA que utilizam modelos de linguagem grandes para ajudar a explorar, analisar e interagir com dados de formas inovadoras. Familiarize-se com novos dados explorando amplos tópicos ou conceitos em um chat interativo com a IA. Mergulhe mais em aspectos específicos com codificação assistida por IA e análise de texto. E se você chegar ao ponto em que você deve sintetizar e consolidar seus resultados, discuta-os em uma conversa de código com a IA.
 
 !!! note "Por que usar o QualCoder?"
-    - **QualCoder é gratuito**. Muitos programas de análise qualitativa cobram taxas úncias ou assinaturas mensais caríssimas.
+    - **O QualCoder é gratuito**. Muitos programas de análise qualitativa cobram taxas úncias ou assinaturas mensais caríssimas.
     <!-- Added enphasis to the price (caríssimas means really expensive) of such taxes of QDA programms, because for the brazilian reality the 400 USD/Month from NVIVO, is 2.000 BRL which is more than minimum wage and more then my rent -->
     - **O QualCoder é fácil de usar**. Ele tem tudo que você precisa para realizar análises qualitativas sem as interfaces complicadas de algumas alternativas
     - **O QualCoder funciona _offline_**. A Internet nem sempre está disponível e QualCoder não requer internet para trabalhar.
@@ -19,8 +19,8 @@ O QualCoder inclui um conjunto de recursos assistidos por IA que utilizam modelo
     - **O QualCoder depende da comunidade**. Se você encontrar um erro ou tiver um pedido de recurso ou _feedback_, escreva sobre ele na [página do QualCoder no github](https://github.com/ccbogel/QualCoder).
     - **O QualCoder está sempre melhorando**. O QualCoder é desenvolvido ativamente, o que significa que versões novas e melhoradas estão sendo lançadas.
     - **O QualCoder suporta padrões abertos**. O QualCoder busca apoiar o [Padrão REFI-QDA](https://www.qdasoftware.org/), você pode trocar _codebooks_ e projetos com seus colegas, mesmo que eles não usem o QualCoder, desde que o software que eles usam suporte o padrão REFI-QDA. Significa que você não corre o risco de seus dados ficarem indisponíveis.A compatibilidade dos projetos com o REFI-QDA ainda não está 100% garantida. São necessários mais testes, em especial para as exportações e importações de áudio e vídeo e arquivos ligados relativamente.
-    - **QualCoder pode ser modificado**. Você pode modificar e adaptar o QualCoder às suas necessidades, desde que libere suas alterações para todos. Isso também significa que você pode copiar o _software_ e dá-lo a seus colegas ou alunos gratuitamente.
-    - **QualCoder é uma opção de software para apoiar a ciência aberta**. [Recomendações da UNESCO sobre ciência aberta (em inglês)](https://www.unesco.org/en/open-science?hub=686)
+    - **O QualCoder pode ser modificado**. Você pode modificar e adaptar o QualCoder às suas necessidades, desde que libere suas alterações para todos. Isso também significa que você pode copiar o _software_ e dá-lo a seus colegas ou alunos gratuitamente.
+    - **O QualCoder é uma opção de _software_ para apoiar a ciência aberta**. [Recomendações da UNESCO sobre ciência aberta (em inglês)](https://www.unesco.org/en/open-science?hub=686)
 
 ## Versão atual {#current-release}
 
