@@ -29,7 +29,7 @@ QualCoder includes a set of AI-assisted features that utilise Large Language Mod
 
 [:octicons-archive-24: Download latest version available on GitHub](https://github.com/ccbogel/QualCoder/releases/latest){ .md-button .md-button--primary }
 
-The in development code is available here: [https://github.com/ccbogel/QualCoder](https://github.com/ccbogel/QualCoder)
+The _in development_ code is available here: [https://github.com/ccbogel/QualCoder](https://github.com/ccbogel/QualCoder)
 
 ## Support QualCoder {#support-qualcoder}
 
