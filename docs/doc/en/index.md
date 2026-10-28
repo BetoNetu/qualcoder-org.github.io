@@ -3,7 +3,7 @@ path: index
 ---
 # What is QualCoder
 
-QualCoder is free, open source desktop software for qualitative data analysis.
+QualCoder is free, open source desktop software for qualitative data analysis. QualCoder is the qualitative research equivalent of R for statistics.
 
 QualCoder is for individual researchers, academics, students or small teams managing their own qualitative or mixed-methods  projects.
 
